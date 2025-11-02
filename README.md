@@ -69,7 +69,7 @@ and simulate the pressure and rhythm of a real interview — all within a minima
 <p>
   
 You can check out the DEMO VIDEO here:  
-<a href="https://drive.google.com/file/d/1FxBsyOnQBXErps3AgffjB-EO3eXa2YyV/view?usp=sharing" target="_blank">Interview AI Simulator on GitHub</a>
+<a href="https://drive.google.com/file/d/1Bzb8f6X3zG-njhh7CXdzW2tdVOAMj-cZ/view?usp=sharing" target="_blank">Interview AI Simulator on GitHub</a>
 </p>
 
 <hr>
