@@ -68,8 +68,8 @@ and simulate the pressure and rhythm of a real interview — all within a minima
 <h2>Demo</h2>
 <p>
   
-You can check out the project repository here:  
-<a href="https://github.com/AleeCodeAI/Interview-AI-Simulator" target="_blank">Interview AI Simulator on GitHub</a>
+You can check out the DEMO VIDEO here:  
+<a href="https://drive.google.com/file/d/1FxBsyOnQBXErps3AgffjB-EO3eXa2YyV/view?usp=sharing" target="_blank">Interview AI Simulator on GitHub</a>
 </p>
 
 <hr>
