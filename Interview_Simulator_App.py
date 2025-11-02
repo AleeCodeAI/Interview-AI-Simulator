@@ -83,7 +83,7 @@ if not st.session_state.setup_complete:
     with col2:
         st.session_state["job_title"] = st.selectbox(
             "Select The Job Title",
-            ("Data Scientist", "Data engineer", "ML Engineer", "BI Analyst", "Financial Analyst")
+            ("Data Scientist", "AI engineer", "ML Engineer", "BI Analyst", "Financial Analyst")
         )
 
     st.session_state["company"] = st.selectbox(
@@ -109,7 +109,7 @@ if st.session_state["setup_complete"] and not st.session_state.feedback_shown an
             f"The position is {st.session_state['level']} {st.session_state['job_title']} at {st.session_state['company']}. "
             "Ask questions like in a real job interview, one at a time. You Should Ask 5 Questions and end the conversation when reached to the fifth question"
         )
-        model = genai.GenerativeModel("gemini-1.5-flash")
+        model = genai.GenerativeModel("gemini-2.0-flash")
         st.session_state.chat = model.start_chat(history=[{"role": "user", "parts": [system_message]}])
         st.session_state.messages = []  # only for display, optional
 
